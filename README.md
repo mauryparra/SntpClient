@@ -1,0 +1,4 @@
+SntpClient
+==========
+
+SNTP Client Library
